@@ -1,0 +1,11 @@
+{
+    "slug": "1blugg",
+    "address": "Str 5555",
+    "name": "NamedCompany",
+    "relevant-countries": [
+        "all"
+    ],
+    "sources": [
+        "https://github.com/malte-testdev/test_repo/pull/43"
+    ]
+}
