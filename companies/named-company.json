@@ -1,0 +1,11 @@
+{
+    "slug": "named-company",
+    "address": "NamedCompany\nStraße 5\n 1324 Stadt",
+    "name": "NamedCompany",
+    "relevant-countries": [
+        "all"
+    ],
+    "sources": [
+        "https://github.com/malte-testdev/test_repo/pull/44"
+    ]
+}
