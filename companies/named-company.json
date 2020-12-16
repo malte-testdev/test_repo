@@ -7,4 +7,6 @@
     "sources": [
         "https://github.com/malte-testdev/test_repo/pull/46"
     ]
+    "testparameter": "some new line",
+    "testparametertwo": "test"
 }
