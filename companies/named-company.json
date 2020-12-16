@@ -1,0 +1,10 @@
+{
+    "slug": "named-company",
+    "name": "NamedCompany",
+    "relevant-countries": [
+        "all"
+    ],
+    "sources": [
+        "https://github.com/malte-testdev/test_repo/pull/47"
+    ]
+}
