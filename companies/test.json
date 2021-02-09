@@ -1,0 +1,18 @@
+{
+    "slug": "test",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "test",
+    "address": "test",
+    "sources": [
+        "https://www.datenanfragen.de/schema.json",
+        "https://github.com/malte-testdev/test_repo/pull/53"
+    ],
+    "required-elements": [
+        {
+            "type": "input"
+        }
+    ],
+    "quality": "verified"
+}
