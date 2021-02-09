@@ -1,0 +1,16 @@
+{
+    "slug": "asdasd",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "asdasd",
+    "runs": [
+        null,
+        null
+    ],
+    "web": "http:/www.example.org",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/malte-testdev/test_repo/pull/50"
+    ]
+}
