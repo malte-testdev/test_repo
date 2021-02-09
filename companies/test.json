@@ -1,0 +1,17 @@
+{
+    "slug": "test",
+    "relevant-countries": [],
+    "name": "test",
+    "runs": [],
+    "address": "adsasdasdasd",
+    "sources": [
+        "https://www.datenanfragen.de",
+        "https://github.com/malte-testdev/test_repo/pull/51"
+    ],
+    "required-elements": [
+        {
+            "type": "input"
+        }
+    ],
+    "quality": "verified"
+}
