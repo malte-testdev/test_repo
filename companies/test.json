@@ -1,0 +1,13 @@
+{
+    "slug": "test",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "test",
+    "address": "a",
+    "sources": [
+        "asd",
+        "https://github.com/malte-testdev/test_repo/pull/48"
+    ],
+    "quality": "verified"
+}
